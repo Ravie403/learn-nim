@@ -1,2 +1,3 @@
 # learn-nim
-https://nim-lang.org/
+https://nim-lang.org/ 
+のOffcial Tutorialに準拠
